@@ -1,0 +1,493 @@
+,Brand,Model,Variant,Year,driven kilometers,fuel,Transmission,number of owners,Price,Street,District,State
+0,Ford,Figo,2010-2012 Diesel ZXI,2010,90000,Diesel,Manual,2nd,215000.0,Ram Krishna Nagar, Vijayawada, Andhra Pradesh
+1,Ford,Ecosport,1.5 Petrol Ambiente,2015,38000,Petrol,Manual,1st,575000.0,Phule Nagar, Pune, Maharashtra
+2,Maruti Suzuki,Wagon R,2006-2010 VXI Minor,2009,58720,Petrol,Manual,1st,245000.0,Manuti, Thrissur, Kerala
+3,Hyundai,Fluidic Verna,1.6 CRDi SX,2018,55000,Diesel,Manual,1st,949999.0,Usmanpura, Ahmedabad, Gujarat
+4,Maruti Suzuki,Swift Dzire,VXI,2015,57091,Petrol,Manual,2nd,495000.0,Ezhamkulam, Adoor, Kerala
+5,Maruti Suzuki,Alto,LXi,2009,52000,Petrol,Manual,1st,135000.0,Hazratganj, Lucknow, Uttar Pradesh
+6,Maruti Suzuki,Swift,VVT VXI,2018,17000,Petrol,Manual,1st,635000.0,Kalyan, Thane, Maharashtra
+7,Volkswagen,Polo,GT TDI Sport Edition,2017,83231,Diesel,Manual,1st,780000.0,Uppal, Hyderabad, Telangana
+8,Hyundai,EON,1.0 Kappa Magna + (O),2014,165000,Petrol,Manual,2nd,210000.0,Belthangadi, Beltangadi, Karnataka
+9,Hyundai,Getz,GLS,2007,78000,Petrol,Manual,1st,145000.0,Jagatpur, Ahmedabad, Gujarat
+10,Hyundai,Grand i10,2016-2017 Magna,2017,70000,Petrol,Manual,1st,375000.0,Sultanpet, Palakkad, Kerala
+11,Mahindra,Scorpio,2002-2013 LX,2011,85320,Diesel,Manual,1st,370000.0,Navrangpura, Ahmedabad, Gujarat
+12,Hyundai,Elantra,2012-2015 CRDi S,2012,49351,Diesel,Manual,2nd,760000.0,HRBR Layout, Bengaluru, Karnataka
+13,Toyota,Yaris,VX CVT,2018,55000,Petrol,Automatic,1st,1050000.0,Ernakulam, Kochi, Kerala
+14,Land Rover,Discovery Sport,TD4 HSE Luxury,2020,20000,Diesel,Automatic,1st,5375000.0,Vasant Kunj, Delhi, Delhi
+15,Datsun,RediGO,T Option,2017,40000,Petrol,Manual,1st,279999.0,Shantipuram, Visakhapatnam, Andhra Pradesh
+16,Mahindra,Xylo,2009-2011 E8 BS4,2010,76000,Diesel,Manual,,295000.0,Sector 37D, Chandigarh, Chandigarh
+17,Skoda,Rapid,1.6 MPI AT Ambition,2014,65500,Petrol,Automatic,1st,475001.0,Vadsar, Vadodara, Gujarat
+18,Hyundai,i10,Sportz 1.2 KAPPA VTVT,2009,79000,CNG & Hybrids,Manual,1st,165000.0,PWD Colony, Rampur, Uttar Pradesh
+19,BMW,3 Series,320d Sport,2014,70000,Diesel,Automatic,1st,1575000.0,Mahanagar, Lucknow, Uttar Pradesh
+20,Hyundai,Verna,Fluidic 1.6 VTVT SX,2016,55000,Petrol,Manual,1st,670000.0,Rohini Sector 2, Delhi, Delhi
+21,Chevrolet,Spark,1.0 LS,2007,108482,Petrol,Manual,2nd,98000.0,Andheri East, Mumbai, Maharashtra
+22,Hyundai,Creta,1.6 CRDi SX Option,2015,110000,Diesel,Manual,1st,950000.0,Poonamallee, Chennai, Tamil Nadu
+23,,,,0,0,Unknown,Unknown,,25000.0,Samudrapur, Maharashtra, India
+24,Volkswagen,Polo,2009-2013 Diesel Comfortline 1.2L,0,81500,Diesel,Manual,1st,325000.0,Sector 9C, Chandigarh, Chandigarh
+25,Hyundai,Grand i10,2016-2017 Magna,2016,38445,Diesel,Manual,1st,535000.0,Satyasai Road, Indore, Madhya Pradesh
+26,Skoda,Octavia,2000-2010 Rider 1.9 TDI MT,2006,110000,Diesel,Manual,3rd,170000.0,Vytila, Kochi, Kerala
+27,Maruti Suzuki,Ciaz,2014-2017 ZDi,2017,57000,Diesel,Manual,1st,745000.0,Ranital Chowk, Jabalpur, Madhya Pradesh
+28,Maruti Suzuki,Swift Dzire Tour,LDI,2019,59000,Diesel,Manual,1st,585000.0,Nungambakkam, Chennai, Tamil Nadu
+29,Volkswagen,Polo,1.2 MPI Comfortline,2011,57425,Petrol,Manual,2nd,230000.0,Juhi Kalan, Kanpur, Uttar Pradesh
+30,Toyota,Fortuner,3.0 4x2 Automatic,2014,158000,Diesel,Automatic,1st,1925000.0,Thavalakuzhy, Ettumanoor, Kerala
+31,Mahindra,Xylo,H4 BS IV,2019,0,Diesel,Unknown,,892000.0,Tambaram, Chennai, Tamil Nadu
+32,Hyundai,i20,1.4 Sportz,2010,67900,Petrol,Manual,1st,235000.0,Nagole, Hyderabad, Telangana
+33,Hyundai,EON,1.0 Era Plus,2013,40000,Petrol,Manual,1st,290000.0,Kodambakkam Zacharia Colony, Chennai, Tamil Nadu
+34,Chevrolet,Enjoy,1.4 LTZ 8,2014,45519,Petrol,Manual,1st,260000.0,Bondbag Village, Ponda, Goa
+35,Honda,Brio,1.2 S MT,2017,65000,Petrol,Manual,1st,475000.0,Satellite Anand Nagar, Ahmedabad, Gujarat
+36,iPhone,,,0,0,Unknown,Unknown,,13499.0,Samudrapur, Maharashtra, India
+37,Hyundai,Santro Xing,GL,2009,81000,Petrol,Manual,3rd,210000.0,Basaveshvara Nagar, Bengaluru, Karnataka
+38,Maruti Suzuki,Vitara Brezza,ZDi Plus Dual Tone,2019,54250,Diesel,Manual,1st,890000.0,Varacha, Surat, Gujarat
+39,Volvo,XC90,Inscription Luxury,2016,120000,Diesel,Automatic,1st,3950000.0,Sector 2A, Chandigarh, Chandigarh
+40,Ford,Fiesta,2010,0,0,Unknown,Unknown,,175000.0,Palarivattom, Kochi, Kerala
+41,Mahindra,Xylo,H4 BS IV,2019,38545,Diesel,Manual,1st,892000.0,Tambaram, Chennai, Tamil Nadu
+42,Ford,Ecosport,1.5 Diesel Titanium,2013,77834,Diesel,Manual,1st,625000.0,Pirwadi, Satara, Maharashtra
+43,Hyundai,Grand i10,2016-2017 Magna AT,2016,32000,CNG & Hybrids,Automatic,1st,575000.0,Mayur Vihar, Delhi, Delhi
+44,Audi,A4,"2.0 TDI (177bhp), Premium",2012,70000,Diesel,Automatic,1st,1275000.0,Kalol INA, Kalol, Gujarat
+45,Hyundai,i20,2015-2017 Asta 1.4 CRDi,2017,75000,Diesel,Manual,1st,710000.0,Santosh Nagar, Hyderabad, Telangana
+46,Maruti Suzuki,Wagon R,VXI,2016,15812,Petrol,Manual,,375000.0,Tunga Village, Mumbai, Maharashtra
+47,Mahindra,Quanto,C2,2012,73000,Diesel,Manual,1st,260000.0,Preet Vihar, Delhi, Delhi
+48,Toyota,Innova,2.5 G (Diesel) 8 Seater,2010,85000,Diesel,Manual,2nd,425000.0,Baroda Dairy Chowk, Vadodara, Gujarat
+49,Skoda,Rapid,1.6 MPI Active,2013,62000,Petrol,Manual,2nd,325000.0,UCIL Township, Jadugora, Jharkhand
+50,Honda,Brio,2016,0,0,Manual,Unknown,,400000.0,Balkampet, Hyderabad, Telangana
+51,Honda,City,2008-2011 1.5 S MT,2010,72452,Petrol,Manual,2nd,280000.0,Juhi Kalan, Kanpur, Uttar Pradesh
+52,Toyota,Camry,2002-2011 W2 (AT),2007,55,Petrol,Automatic,,30000.0,Vyttila, Kochi, Kerala
+53,Hyundai,Grand i10,1.2 Kappa Magna,2015,13500,Petrol,Manual,1st,545000.0,Madhapur, Hyderabad, Telangana
+54,Maruti Suzuki,Swift Dzire,ZDI Plus ,2017,75000,Diesel,Manual,1st,750000.0,Mahanagar, Lucknow, Uttar Pradesh
+55,Maruti Suzuki,Alto,LXi,2011,57000,Petrol,Manual,1st,195000.0,Rajarampuri, Kolhapur, Maharashtra
+56,Audi,A6,2.0 TDI Premium Plus,2012,70000,Diesel,Automatic,1st,1470000.0,Jawahar Nagar, Ludhiana, Punjab
+57,Hyundai,Santro Xing,GL,2011,88000,Petrol,Manual,2nd,165000.0,Dwarka, Delhi, Delhi
+58,Maruti Suzuki,Swift,2004-2010 Lxi BSIII,2006,165000,CNG & Hybrids,Automatic,3rd,105000.0,Mohan Ke Uttar 168, Guru Har Sahai, Punjab
+59,Renault,Duster,110PS Diesel RxZ AWD,2014,126000,Diesel,Manual,1st,455000.0,Bhiwandi Nizampur, Bhiwandi, Maharashtra
+60,Hyundai,i10,Magna,2010,75000,Petrol,Manual,3rd,200000.0,Lodhamandi, Haridwar, Uttaranchal
+61,Honda,City ZX,GXi,2008,60000,Petrol,Manual,2nd,120000.0,Banaras Hindu University, Varanasi, Uttar Pradesh
+62,Honda,Amaze,1.5 SMT I DTEC,2016,45000,Diesel,Manual,1st,475000.0,Naranpura, Ahmedabad, Gujarat
+63,Renault,KWID,1.0 RXT EDITION,2018,19999,Petrol,Manual,1st,325000.0,Edapally, Kochi, Kerala
+64,Hyundai,Grand i10,1.2 CRDi Sportz Option,2017,82957,Diesel,Manual,1st,500000.0,Chikalthana MIDC, Aurangabad, Maharashtra
+65,Maruti Suzuki,Vitara Brezza,ZDi AMT,2019,7500,Diesel,Automatic,1st,1090000.0,Vijyant Khand, Lucknow, Uttar Pradesh
+66,Maruti Suzuki,Swift Dzire,Vdi BSIV,2013,100000,Diesel,Manual,1st,450000.0,Raja Park, Jaipur, Rajasthan
+67,Tata,Aria,2010-2013 Pleasure 4x2,2012,99492,Diesel,Manual,2nd,284000.0,Dahisar West, Mumbai, Maharashtra
+68,Maruti Suzuki,Wagon R,VXI,2015,30000,Petrol,Manual,1st,325000.0,Mayur Vihar, Delhi, Delhi
+69,Ford,Ecosport,1.5 Diesel Ambiente,2013,113000,Diesel,Manual,1st,485000.0,Thane West, Thane, Maharashtra
+70,Mahindra,Xylo,H4,2019,76002,Diesel,Manual,1st,913000.0,Porur, Chennai, Tamil Nadu
+71,Maruti Suzuki,Vitara Brezza,VDi AMT,2018,21000,Diesel,Automatic,1st,880000.0,Preet Vihar, Delhi, Delhi
+72,Hyundai,i10,1.1L iRDE Magna Special Edition,2009,38162,Petrol,Manual,1st,180000.0,Madurdaha, Kolkata, West Bengal
+73,Maruti Suzuki,Omni,E MPI STD BSIV,2017,37000,Petrol,Manual,1st,275000.0,Ayanavaram, Chennai, Tamil Nadu
+74,Volkswagen,Polo,1.5 TDI Highline,2015,79000,Diesel,Manual,2nd,450000.0,Navrangpura, Ahmedabad, Gujarat
+75,Jeep,Compass,2.0 Sport,2018,31000,Diesel,Manual,1st,1500000.0,Karamana, Thiruvananthapuram, Kerala
+76,Skoda,Rapid,2013-2016 1.5 TDI Elegance,2014,44500,Diesel,Manual,2nd,511000.0,Naranpura, Ahmedabad, Gujarat
+77,Nissan,Sunny,XV,2015,49000,Petrol,Manual,1st,415000.0,Tilak Nagar, Delhi, Delhi
+78,Hyundai,Verna,2011-2014 1.6 SX VTVT (O),2013,36124,Petrol,Manual,1st,595000.0,Borivali West, Mumbai, Maharashtra
+79,Maruti Suzuki,Ciaz,2014-2017 ZXi Plus,2015,68000,Petrol,Manual,1st,650000.0,Shivaji Nagar, Pune, Maharashtra
+80,,,,0,0,Unknown,Unknown,,,,,
+81,Honda,City,2015-2017 i VTEC V,2017,89000,Petrol,Manual,1st,790000.0,Navrangpura, Ahmedabad, Gujarat
+82,Toyota,Innova,2.5 V 8 STR,2009,79000,Diesel,Manual,2nd,575000.0,Kalol INA, Kalol, Gujarat
+83,BMW,5 Series,520d Luxury Line,2017,35000,Diesel,Automatic,1st,4200000.0,Kottivakkam, Chennai, Tamil Nadu
+84,Toyota,Fortuner,2011-2016 4x2 MT TRD Sportivo,2012,175000,Diesel,Manual,2nd,1290000.0,Rajaji Nagar, Bengaluru, Karnataka
+85,Fiat,Punto,Punto Emotion Pack 1.3,2010,64000,Petrol,Manual,1st,150000.0,JP Nagar Phase 7, Bengaluru, Karnataka
+86,Maruti Suzuki,Ertiga,LDI,2009,80313,Diesel,Manual,1st,250000.0,Chembur, Mumbai, Maharashtra
+87,Maruti Suzuki,Ciaz,1.4 AT Delta,2020,5000,Petrol,Automatic,1st,1045000.0,Sector 37, Gurgaon, Haryana
+88,Datsun,RediGO,AMT 1.0 S,2018,23000,Petrol,Automatic,1st,338000.0,Erayikadavu, Kottayam, Kerala
+89,Audi,Q5,2.0 TFSI quattro Premium,2009,62000,Petrol,Automatic,3rd,1000000.0,Deonar, Mumbai, Maharashtra
+90,Hyundai,i20,2010,0,0,Manual,Unknown,,310000.0,T Nagar, Chennai, Tamil Nadu
+91,Skoda,Rapid,1.6 MPI Active,2014,92000,Diesel,Manual,2nd,470000.0,Melkar, Narikombu, Karnataka
+92,Ford,Figo,2010-2012 Diesel Titanium,2010,188000,Diesel,Manual,2nd,235000.0,Kannankurichi, Salem, Tamil Nadu
+93,Chevrolet,Enjoy,2013-2015 TCDi LS 8 Seater,2014,77000,Diesel,Manual,1st,410000.0,Allauddin Basthi, Hyderabad, Telangana
+94,Maruti Suzuki,Celerio,ZXI AMT,2015,35153,Petrol,Automatic,,475000.0,Lavakusha Nagar, Bengaluru, Karnataka
+95,Nissan,Sunny,XV,2014,46000,Petrol,Manual,1st,475000.0,Aranattukara, Thrissur, Kerala
+96,Chevrolet,Captiva,LTZ AWD Automatic,2012,83000,Diesel,Automatic,1st,550000.0,Bhakti Nagar, Aurangabad, Maharashtra
+97,Volkswagen,Polo,1.2 MPI Highline,2017,80000,Petrol,Manual,1st,665000.0,Thiruvannur, Kozhikode, Kerala
+98,Maruti Suzuki,Vitara Brezza,ZDi,2017,85000,Diesel,Manual,1st,825000.0,Venkata Ramana Colony, Kurnool, Andhra Pradesh
+99,Toyota,Innova Crysta,2.8Z Automatic,2018,36523,Diesel,Automatic,1st,2150000.0,Malad West, Mumbai, Maharashtra
+100,Maruti Suzuki,Swift,2011-2014 VDI,2013,80000,Diesel,Manual,1st,370000.0,Banasar Bagh, Sangrur, Punjab
+101,Honda,City ZX,GXi,2007,141000,Petrol,Manual,2nd,290000.0,Vrindavan Colony, Jagdalpur, Chhattisgarh
+102,Chevrolet,Beat,Diesel LS,2012,72000,Diesel,Manual,2nd,120000.0,Aalinchuvadu, Tirur, Kerala
+103,Honda,City,2014-2015 i DTEC SV,2014,53000,Diesel,Manual,1st,550000.0,Off SG Highway, Ahmedabad, Gujarat
+104,MG,Hector,Sharp AT,2019,20000,Petrol,Automatic,1st,1750000.0,Kapodra Chowk, Surat, Gujarat
+105,Toyota,Camry,2002-2011 W3 (MT),2008,0,Unknown,Unknown,,15000.0,Vyttila, Kochi, Kerala
+106,Toyota,Etios Liva,2011-2012 GD,2013,56321,Diesel,Manual,1st,249101.0,Rabindra Nagar, Siliguri, West Bengal
+107,Maruti Suzuki,Ignis,1.3 Alpha,2017,49500,Diesel,Manual,2nd,590000.0,Vijyant Khand, Lucknow, Uttar Pradesh
+108,Maruti Suzuki,Omni,8 Seater BSIV,2016,67000,Petrol,Manual,2nd,285000.0,Ayodya Nagar, Bengaluru, Karnataka
+109,Maruti Suzuki,Ritz,VDi,2013,59000,Diesel,Manual,1st,325000.0,Kalol INA, Kalol, Gujarat
+110,Hyundai,Creta,1.6 SX Automatic,2018,7000,Petrol,Automatic,1st,1500000.0,Bandra West, Mumbai, Maharashtra
+111,Maruti Suzuki,Zen,LX,2004,100000,Petrol,Manual,2nd,80000.0,Barra, Sirhind Fatehgarh Sahib, Punjab
+112,Hyundai,Elite i20,Sportz 1.2 OPT,2018,40000,Petrol,Manual,1st,580000.0,Pandara, Bhubaneshwar, Odisha
+113,Tata,Indigo Ecs,eCS GLX,2012,59000,Diesel,Manual,1st,190000.0,Kalol INA, Kalol, Gujarat
+114,Maruti Suzuki,Ciaz,2014-2017 VDi Plus SHVS,2016,23000,Diesel,Manual,1st,699000.0,Andheri West, Mumbai, Maharashtra
+115,Toyota,Etios,Etios G SP*,2011,78500,Petrol,Manual,1st,325000.0,Sector 61, Chandigarh, Chandigarh
+116,Skoda,Laura,Laura Ambition 2.0 TDI CR MT,2008,159979,Diesel,Manual,3rd,325000.0,Ajmer Road, Jaipur, Rajasthan
+117,BMW,5 Series,530i,2008,59000,Petrol,Automatic,1st,585000.0,Vikaspuri, Delhi, Delhi
+118,,,,0,0,Unknown,Unknown,,,,,
+119,Mahindra,XUV500,2011-2015 W6 2WD,2014,64000,Diesel,Manual,1st,640000.0,Rohini, Delhi, Delhi
+120,Mahindra,Xylo,H4,2019,27852,Diesel,Manual,1st,912000.0,Chennai Air Port, Chennai, Tamil Nadu
+121,Hyundai,Creta,1.6 SX,2015,74237,Diesel,Manual,,755000.0,Dwarka, Delhi, Delhi
+122,Maruti Suzuki,Swift,VDI BS IV,2017,39000,Diesel,Manual,1st,750000.0,Kalyan, Thane, Maharashtra
+123,Toyota,Corolla Altis,2013-2017 VL AT,2014,65300,Petrol,Automatic,1st,899000.0,Thane West, Thane, Maharashtra
+124,Maruti Suzuki,Swift Dzire Tour,LDI,2016,97000,Diesel,Manual,1st,290000.0,Hosakerehalli, Bengaluru, Karnataka
+125,Volvo,V40,D3 R Design,2015,40000,Diesel,Automatic,2nd,1645000.0,Nagawara, Bengaluru, Karnataka
+126,Hyundai,Elite i20,Magna 1.4 CRDI,2015,110000,Diesel,Manual,1st,510000.0,Padivattom, Kochi, Kerala
+127,,,,0,0,Unknown,Unknown,,6600.0,Samudrapur, Maharashtra, India
+128,Ford,Ecosport,1.5 TDCi Titanium Plus,2013,83000,Diesel,Manual,1st,625000.0,Limbodi, Indore, Madhya Pradesh
+129,BMW,5 Series,520d,2009,70000,Diesel,Automatic,2nd,1225000.0,Shivanand Colony, Coimbatore, Tamil Nadu
+130,Volkswagen,Ameo,1.2 MPI Highline,2018,44000,Petrol,Manual,1st,540000.0,Laxmi Nagar, Delhi, Delhi
+131,Renault,KWID,1.0 RXT,2018,33000,Petrol,Manual,1st,370000.0,Attapur, Hyderabad, Telangana
+132,Maruti Suzuki,Wagon R,2010-2012 LXI BS IV,2011,72455,Petrol,Manual,2nd,200000.0,Juhi Kalan, Kanpur, Uttar Pradesh
+133,Mahindra,eKUV100,Others,2016,210000,Diesel,Manual,1st,300000.0,Benzco, Vijayawada, Andhra Pradesh
+134,Maruti Suzuki,Swift Dzire,Regal,2014,60000,Diesel,Automatic,1st,410000.0,Sector 11, Faridabad, Haryana
+135,Hyundai,Fluidic Verna,1.6 CRDi SX,2012,90000,Diesel,Manual,2nd,435000.0,Karthikeya Nagar Nacharam, Hyderabad, Telangana
+136,Maruti Suzuki,Wagon R,VXI Opt,2018,29000,Petrol,Manual,1st,475000.0,Jaman Nagar, Jaipur, Rajasthan
+137,Other Brands,Others,2020,0,0,Unknown,Unknown,,168000.0,LB Nagar, Hyderabad, Telangana
+138,Maruti Suzuki,Celerio,VXI MT,2019,13600,Petrol,Manual,1st,400000.0,Grain Market, Pundri, Haryana
+139,,,,0,0,Unknown,Unknown,,550.0,Samudrapur, Maharashtra, India
+140,Hyundai,Creta,1.4 E Plus Diesel,2020,23000,Diesel,Manual,1st,1052000.0,Tilak Nagar, Delhi, Delhi
+141,Hyundai,Elite i20,Sportz 1.2,2017,20000,Petrol,Manual,2nd,515000.0,serampore, Hooghly, West Bengal
+142,Hyundai,Elite i20,Sportz (O) 1.2,2017,27000,Petrol,Manual,1st,585000.0,Laxmi Nagar, Delhi, Delhi
+143,Ford,Figo,2010-2012 Diesel ZXI,2010,90000,Diesel,Manual,2nd,210000.0,Benzco, Vijayawada, Andhra Pradesh
+144,Bajaj,Others,Others,2011,50000,Petrol,Manual,3rd,29000.0,Pothencode, Thiruvananthapuram, Kerala
+145,Mahindra,Bolero,DI NON AC BS III White,2014,94000,Diesel,Manual,1st,525000.0,Jalgaon Krishi Utpan Bazar Samity, Jalgaon, Maharashtra
+146,Hyundai,i10,Sportz 1.2 KAPPA VTVT,2011,72531,Petrol,Manual,1st,262000.0,Sector 60 Phase 3B2, Mohali, Punjab
+147,Houses & Villas,1,1,2000,2,Unknown,Unknown,3+,1000.0,Sant Dynaneswar Ward, Hinganghat, Maharashtra
+148,Hyundai,i20 Active,1.4 SX,2015,106000,Diesel,Manual,1st,590000.0,Suchitra Road, Hyderabad, Telangana
+149,Tata,Nano,2012-2015 LX SE,2014,0,Petrol,Unknown,,80000.0,Ekta Colony, Durg, Chhattisgarh
+150,Ford,Figo,Titanium Diesel,2012,62000,Diesel,Manual,2nd,355000.0,Domlur, Bengaluru, Karnataka
+151,Mahindra,Bolero,SLX BS IV,2015,49875,Diesel,Manual,1st,595000.0,Juhi Kalan, Kanpur, Uttar Pradesh
+152,Hyundai,Fluidic Verna,1.6 CRDi SX,2012,83000,Diesel,Manual,1st,520000.0,Thindal Malai, Erode, Tamil Nadu
+153,Maruti Suzuki,Swift,VDI,2016,84469,Diesel,Manual,,415000.0,DLF City, Gurgaon, Haryana
+154,Toyota,Fortuner,2009-2011 3.0 Diesel,2012,75000,Diesel,Manual,1st,1270000.0,Subhash Nagar, Dehradun, Uttaranchal
+155,Maruti Suzuki,Wagon R,VXI,2014,60000,Petrol,Manual,1st,325000.0,Atladra Padra Road, Vadodara, Gujarat
+156,Tata,Safari,DICOR 2.2 EX 4x2,2007,110000,Diesel,Manual,1st,170000.0,Lila Bhawan, Patiala, Punjab
+157,Honda,City,i-VTEC CVT ZX,2017,48995,Petrol,Automatic,1st,959700.0,Kanjurmarg East, Mumbai, Maharashtra
+158,Ford,Ecosport,2016,0,0,Manual,Unknown,,750000.0,Lavakusha Nagar, Bengaluru, Karnataka
+159,,,,0,0,Unknown,Unknown,,,,,
+160,BMW,8 Series,Others,2020,0,Unknown,Unknown,,500000.0,Malappuram Up Hill, Malappuram, Kerala
+161,Tata,Indigo,1.4 GLS BSIII,2005,45000,CNG & Hybrids,Manual,2nd,65000.0,Bhalwahi, Koeripur, Uttar Pradesh
+162,Honda,City,1997-2006 1.5 EXI,2006,83577,Petrol,Manual,2nd,155000.0,Radha Krishna Nagar, Mumbai, Maharashtra
+163,Mahindra,Xylo,2012-2014 E8 ABS BS IV,2011,72152,Diesel,Manual,2nd,390000.0,Ram Krishna Pally, English Bazar, West Bengal
+164,Mahindra,Scorpio,S10 7 Seater,2015,78000,Diesel,Manual,1st,950000.0,Hsr Layout Sector 7, Bengaluru, Karnataka
+165,Mahindra,Xylo,2012-2014 E4 BS IV,2012,0,Diesel,Unknown,,545000.0,Vasantha Nagar, Tirunelveli, Tamil Nadu
+166,Honda,City,2014-2015 i DTEC SV,2014,73000,Diesel,Manual,1st,700000.0,Kakkanad, Kochi, Kerala
+167,Tata,Safari,EXi 4X2 BSIII,2002,81423,Diesel,Manual,1st,115000.0,Ashram Road, Ahmedabad, Gujarat
+168,Maruti Suzuki,Estilo,LXi BS-IV,2013,46111,Petrol,Manual,1st,215000.0,Madurdaha, Kolkata, West Bengal
+169,Chevrolet,Enjoy,1.3 TCDi LT 7,2015,100000,Diesel,Manual,1st,350000.0,Civile Line, Gurdaspur, Punjab
+170,Hyundai,Fluidic Verna,1.6 CRDi SX,2012,50000,Diesel,Automatic,1st,450000.0,Sunder Nagar, Ahmedabad, Gujarat
+171,Mercedes-Benz,CLK Class,Others,2008,31000,Diesel,Automatic,1st,1150000.0,Kalol INA, Kalol, Gujarat
+172,Audi,Q7,3.0 TDI quattro,2009,149357,Diesel,Automatic,2nd,999000.0,Ranjit Nagar, Ludhiana, Punjab
+173,Kia,Seltos,GTX Plus,2019,31772,Petrol,Manual,1st,1621000.0,Bandra West, Mumbai, Maharashtra
+174,Honda,City,i-VTEC VX,2016,46000,Petrol,Manual,1st,655000.0,Elgin Road, Kolkata, West Bengal
+175,Maruti Suzuki,Swift Dzire,VXI,2009,24600,Petrol,Manual,1st,275000.0,Andheri East, Mumbai, Maharashtra
+176,,,,0,0,Unknown,Unknown,,,,,
+177,Tata,Aria,2010-2013 Prestige 4x2,2013,90000,Diesel,Manual,1st,385000.0,Andheri West, Mumbai, Maharashtra
+178,Maruti Suzuki,Swift,LXI,2009,77000,CNG & Hybrids,Manual,2nd,265000.0,SG Highway, Ahmedabad, Gujarat
+179,Maruti Suzuki,Alto 800,2012-2016 LXI,2016,21019,Petrol,Manual,1st,270000.0,Udaygiri, Taliparamba, Kerala
+180,For Sale,Owner,5,0,0,Unknown,Unknown,,2500000.0,Samudrapur, Maharashtra, India
+181,Chevrolet,Sail Hatchback,2012-2013 LT Limited Edition,2013,70000,Diesel,Manual,2nd,310000.0,Ghanshyam Vihar Colony, Satna, Madhya Pradesh
+182,Maruti Suzuki,SX4,VDI,2012,69000,Diesel,Manual,1st,415000.0,LB Nagar, Hyderabad, Telangana
+183,Ford,Ecosport,1.5 TDCi Titanium BE,2017,74000,Diesel,Manual,1st,811000.0,Limbodi, Indore, Madhya Pradesh
+184,Chevrolet,Spark,1.0 LS BS3,2009,69000,CNG & Hybrids,Manual,2nd,145000.0,Off SG Highway, Ahmedabad, Gujarat
+185,Tata,Others,Others,2018,68000,Diesel,Manual,2nd,340000.0,Malow Ali, Jorhat, Assam
+186,Toyota,Innova,2.5 V 8 STR,2014,147000,Diesel,Manual,4th,1050000.0,Swami Vivekananda Nagar, Madurai, Tamil Nadu
+187,Mahindra,Scorpio,2002-2013 2.6 CRDe,2004,94000,Diesel,Manual,2nd,170000.0,Ghatkopar West, Mumbai, Maharashtra
+188,Honda,Jazz,1.5 V i DTEC,2016,51000,Diesel,Manual,1st,475000.0,Naroda, Ahmedabad, Gujarat
+189,Maruti Suzuki,SX4,2007-2012 ZDI,2012,565,Petrol,Automatic,2nd,15000.0,Vyttila, Kochi, Kerala
+190,Tata,Harrier,XZ,2019,60595,Diesel,Manual,1st,1551000.0,MG Road, Indore, Madhya Pradesh
+191,Ford,Figo,2010-2012 Diesel ZXI,2013,98000,Diesel,Manual,2nd,180000.0,Tilak Nagar, Jaipur, Rajasthan
+192,Chevrolet,Spark,2007-2012 1.0 LT,2011,47000,Petrol,Manual,1st,185000.0,Pirwadi, Satara, Maharashtra
+193,For Sale,Owner,32,32,0,Unknown,Unknown,,32000000.0,Samudrapur, Maharashtra, India
+194,Hyundai,EON,Magna Plus Option,2017,22000,Petrol,Manual,1st,275000.0,Varanasi Cantonment, Varanasi, Uttar Pradesh
+195,,,,0,0,Unknown,Unknown,,499.0,Samudrapur MIDC, Maharashtra, India
+196,Maruti Suzuki,Zen,Std,1997,58000,Petrol,Manual,2nd,50000.0,Karukachal, Kottayam, Kerala
+197,Mahindra,Others,Others,2021,524,Diesel,Manual,1st,1750000.0,Sector 61, Mohali, Punjab
+198,Skoda,Rapid,1.5 TDI Manual active ambition style,2012,60000,Diesel,Manual,1st,325000.0,Anamika Enclave, Gurgaon, Haryana
+199,Audi,Q7,45 TDI Quattro Premium Plus,2019,48000,Diesel,Automatic,1st,6500000.0,Navrangpura, Ahmedabad, Gujarat
+200,Hyundai,i10,1.2 Kappa Magna,2009,60000,Petrol,Manual,2nd,150000.0,Bhikaji Cama Place, Delhi, Delhi
+201,Ford,Endeavour,2.2 Titanium AT 4X2,2010,100000,Diesel,Manual,2nd,528000.0,Terra Kalan, Ajnala, Punjab
+202,Toyota,Innova,2.5 V 8 STR,2011,59253,Diesel,Manual,2nd,565000.0,Andheri East, Mumbai, Maharashtra
+203,Toyota,Innova Crysta,2.7 GX AT 8S,2020,9000,Diesel,Automatic,1st,2150000.0,Kalyan, Thane, Maharashtra
+204,Hyundai,Grand i10,1.2 Kappa Magna,2019,8500,Petrol,Manual,1st,545000.0,Kodimatha, Kottayam, Kerala
+205,BMW,X1,2010-2012 sDrive20d,2014,67000,Diesel,Automatic,2nd,1450000.0,Telibandha, Raipur, Chhattisgarh
+206,Toyota,Etios Liva,1.4 VXD,2018,70000,Diesel,Manual,1st,740000.0,Thindal Malai, Erode, Tamil Nadu
+207,Datsun,GO,T,2014,58000,Petrol,Manual,1st,270000.0,Balkampet, Hyderabad, Telangana
+208,Hyundai,Santro Xing,GLS LPG,2010,89000,Petrol,Manual,2nd,248000.0,Chinnakandanur, Kodumudi, Tamil Nadu
+209,Hyundai,Verna,2019,0,0,Unknown,Unknown,,888888.0,Tripunithura, Kochi, Kerala
+210,Jeep,Others,Others,1967,15055,Diesel,Manual,2nd,425000.0,Mahadev Nagar, Jaipur, Rajasthan
+211,Hyundai,Verna,2006-2010 CRDi,2007,48247,Diesel,Manual,1st,155000.0,Madurdaha, Kolkata, West Bengal
+212,Mahindra,XUV500,W8 2WD,2012,92000,Diesel,Manual,2nd,550000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+213,Mahindra,Others,2020,0,0,Unknown,Unknown,,50000.0,Vyttila, Kochi, Kerala
+214,Hyundai,Grand i10,2013-2016 Magna,2015,37077,Petrol,Manual,2nd,345050.0,Sector 46, Gurgaon, Haryana
+215,Volkswagen,Polo,2009-2013 Petrol Comfortline 1.2L,2013,16779,Petrol,Manual,1st,296000.0,CBD Belapur, Navi Mumbai, Maharashtra
+216,Maruti Suzuki,Wagon R Duo,Others,2008,108000,LPG,Manual,1st,210000.0,Bavdhan, Pune, Maharashtra
+217,Mahindra,Marazzo,M8,2018,0,Diesel,Unknown,,1160000.0,Sion West, Mumbai, Maharashtra
+218,Toyota,Innova Crysta,2.8 GX AT,2018,42000,Diesel,Automatic,1st,1650000.0,Swarajnagar, Ahmedabad, Gujarat
+219,Mahindra,Scorpio,S11,2018,25000,Diesel,Manual,2nd,1565000.0,Ashok Nagar, Sri Ganganagar, Rajasthan
+220,Mahindra,Scorpio,2002-2013 VLX,2008,160000,Diesel,Manual,2nd,650000.0,Parappalayam, Tiruppur, Tamil Nadu
+221,Mercedes-Benz,S-Class,S 350 L,2008,78000,Petrol,Automatic,2nd,700000.0,Baba Nagar, Delhi, Delhi
+222,Skoda,Rapid,2013-2016 1.5 TDI Elegance,2015,780000,Diesel,Manual,1st,575000.0,Panampilly Nagar, Kochi, Kerala
+223,Honda,City,2011-2013 S,2012,82000,Petrol,Manual,1st,380000.0,Mulund West, Mumbai, Maharashtra
+224,BMW,7 Series,760i Sedan,2012,0,Unknown,Unknown,,15000.0,Vyttila, Kochi, Kerala
+225,,,,0,0,Unknown,Unknown,,599.0,Samudrapur, Maharashtra, India
+226,Maruti Suzuki,Alto 800,LXI Opt,2016,46000,Petrol,Manual,1st,281000.0,Rohini Sector 10, Delhi, Delhi
+227,Maruti Suzuki,Alto 800,LXI,2012,65010,Petrol,Manual,,240000.0,Balkampet, Hyderabad, Telangana
+228,Ford,Figo,Titanium Diesel,2010,72000,Diesel,Manual,1st,245000.0,Banashankari, Bengaluru, Karnataka
+229,Jaguar,XJ,L 3.0 Diesel,2013,42000,Diesel,Automatic,1st,2700000.0,Greater Kailash, Delhi, Delhi
+230,Hyundai,Elite i20,Sportz 1.2 OPT,2020,7000,Petrol,Manual,1st,784000.0,Kodambakkam Zacharia Colony, Chennai, Tamil Nadu
+231,,,,0,0,Unknown,Unknown,,,,,
+232,BMW,X1,xDrive 20d xLine,2012,60000,Diesel,Automatic,2nd,775000.0,Versova, Mumbai, Maharashtra
+233,Hyundai,Xcent,2017,0,0,Manual,Unknown,,365000.0,Thergaon, Pune, Maharashtra
+234,Chevrolet,Cruze,2010-2011 LTZ,2010,103400,Diesel,Manual,2nd,435000.0,Swastik Vihar, Panchkula, Haryana
+235,Mitsubishi,Pajero,Sport 4X4 AT,2015,57000,Diesel,Automatic,1st,1400000.0,Kodambakkam Taylor Estate, Chennai, Tamil Nadu
+236,Toyota,Innova,2.5 V 8 STR,2011,167000,Diesel,Manual,3rd,700000.0,Karamana, Thiruvananthapuram, Kerala
+237,Mahindra,Thar,2010-2015 4X4,2012,58000,Diesel,Manual,2nd,440000.0,Preet Vihar, Delhi, Delhi
+238,Toyota,Fortuner,2015,0,0,Manual,Unknown,,1250000.0,Burari, Delhi, Delhi
+239,Toyota,Fortuner,2.8 2WD MT,2018,78000,Diesel,Manual,1st,3100000.0,MG Road, Indore, Madhya Pradesh
+240,Mahindra,NuvoSport,N8 AMT,2016,40582,Diesel,Automatic,1st,710000.0,Andheri West, Mumbai, Maharashtra
+241,Maruti Suzuki,Swift Dzire,1.2 Vxi BSIV,2011,48000,Petrol,Manual,2nd,295000.0,Savoli Sector 1, Navi Mumbai, Maharashtra
+242,Maruti Suzuki,800,AC BSIII,2008,0,Unknown,Unknown,,100000.0,Palarivattom, Kochi, Kerala
+243,Tata,Nano,2012-2015 LX,2012,36000,Petrol,Manual,1st,115000.0,Khagithopha, Bengaluru, Karnataka
+244,Hyundai,Elite i20,Magna 1.4 CRDI,2018,67588,Diesel,Manual,1st,840000.0,Gokulam, Mysuru, Karnataka
+245,,,,0,0,Unknown,Unknown,,599.0,Samudrapur, Maharashtra, India
+246,,,,0,0,Unknown,Unknown,,1000.0,Samudrapur, Maharashtra, India
+247,Maruti Suzuki,Swift Dzire,Swift Dzire Tour,2015,110722,Diesel,Manual,1st,350000.0,Karmanghat, Hyderabad, Telangana
+248,Maruti Suzuki,Swift Dzire,ZDI,2016,60000,Diesel,Automatic,1st,470000.0,Rohini Sector 3, Delhi, Delhi
+249,Maruti Suzuki,Swift Dzire,LDI Optional,2015,93000,Diesel,Manual,1st,335000.0,Tolichowki, Hyderabad, Telangana
+250,Maruti Suzuki,Alto K10,VXI,2014,50000,Petrol,Manual,1st,250000.0,Raja Park, Jaipur, Rajasthan
+251,Maruti Suzuki,Swift Dzire,VDI,2014,70500,Diesel,Manual,1st,450000.0,Sarthana Jakatnaka, Surat, Gujarat
+252,Hyundai,i20,2009-2011 Sportz Option,2011,56000,Petrol,Manual,1st,242000.0,Pitampura, Delhi, Delhi
+253,Nissan,Sunny,XV,2013,55000,Petrol,Manual,1st,250000.0,New Friends Colony, Delhi, Delhi
+254,Honda,City,i-VTEC SV,2017,28076,Petrol,Manual,1st,751800.0,Nerkundram Valavinayear Nagar, Chennai, Tamil Nadu
+255,Tata,Tigor,1.05 Revotorq XE,2018,58000,Diesel,Manual,1st,499000.0,Vengoor, Angamaly, Kerala
+256,Mahindra,Thar,CRDE 4X4 BS IV,2017,20000,Diesel,Manual,1st,1100000.0,Sadahalli, Bengaluru, Karnataka
+257,Tata,Indigo,LS TDI BS-III,2007,0,Diesel,Unknown,,108000.0,Usuppur, Chidambaram, Tamil Nadu
+258,Hyundai,Verna,CRDi 1.6 AT SX Option,2018,49000,Diesel,Automatic,2nd,1195000.0,Sant Nagar, Pune, Maharashtra
+259,,,,0,0,Unknown,Unknown,,699.0,Samudrapur, Maharashtra, India
+260,Mahindra,Bolero Power Plus,SLE,2017,48200,Diesel,Manual,1st,645000.0,Kathra, Nagram, Uttar Pradesh
+261,Maruti Suzuki,Zen,LXI,2002,8000,Petrol,Manual,2nd,55000.0,Apana Nagar, Parbhani, Maharashtra
+262,Renault,Duster,85PS Diesel RxL,2014,51000,Diesel,Manual,2nd,425000.0,Palaj, Gujarat, India
+263,Datsun,GO,T,2016,40510,Petrol,Manual,1st,230000.0,Jodhpur Village, Ahmedabad, Gujarat
+264,Hyundai,Elite i20,Asta 1.2 (O),2016,8000,Diesel,Manual,2nd,611000.0,Nana Varachha, Surat, Gujarat
+265,,,,0,0,Unknown,Unknown,,,,,
+266,Ford,Ecosport,1.5 Diesel Titanium,2017,45000,Diesel,Manual,1st,745000.0,Anamika Enclave, Gurgaon, Haryana
+267,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2012,76000,Diesel,Manual,2nd,700000.0,Sector 2, Bhilai, Chhattisgarh
+268,Audi,Q3,35 TDI Premium + Sunroof,2017,37000,Diesel,Automatic,1st,2245000.0,Beltola, Guwahati, Assam
+269,Hyundai,Santa Fe,4WD AT,2014,88000,Diesel,Automatic,1st,1150000.0,Shiv Mandir Society, Surat, Gujarat
+270,Land Rover,Range Rover,2014-2017 LWB 3.0 Vogue,2003,75000,Diesel,Automatic,2nd,1350000.0,Bandra West, Mumbai, Maharashtra
+271,Maruti Suzuki,Ritz,VXi,2011,65000,Petrol,Manual,1st,230000.0,Ranjhi, Jabalpur, Madhya Pradesh
+272,Mahindra,Others,2014,0,0,Manual,Unknown,,145000.0,Balkampet, Hyderabad, Telangana
+273,Ford,Fusion,1.4 TDCi Diesel,2009,90000,Diesel,Manual,2nd,160000.0,Bhadur Hussain, Batala, Punjab
+274,Renault,KWID,RXL,2016,70000,Petrol,Manual,1st,320000.0,Hope College, Coimbatore, Tamil Nadu
+275,Maruti Suzuki,Zen Estilo,Zen Estilo LXI,2010,156000,CNG & Hybrids,Manual,1st,165000.0,Sector 2, Faridabad, Haryana
+276,Maruti Suzuki,Vitara Brezza,VDi Option,2018,39400,Diesel,Manual,1st,750000.0,Preet Vihar, Delhi, Delhi
+277,Mahindra,XUV500,W8 2WD,2012,80000,Diesel,Manual,2nd,675000.0,Kodambakkam Taylor Estate, Chennai, Tamil Nadu
+278,Toyota,Etios,1.4 GD,2016,130000,Diesel,Manual,2nd,410000.0,Infantry Road, Bengaluru, Karnataka
+279,Maruti Suzuki,Wagon R,1999-2006 LXI BSIII,2003,112000,Petrol,Manual,2nd,105000.0,Ommasseri, Kozhikode, Kerala
+280,Volkswagen,Jetta,2.0 TDI Comfortline,2011,88000,Diesel,Manual,1st,490000.0,Saptrang Chowk, Nashik, Maharashtra
+281,BMW,3 Series GT,3 Series GT 320d GT Luxury Line,2015,43000,Diesel,Automatic,2nd,2290000.0,Lajpat Nagar 1, Delhi, Delhi
+282,Maruti Suzuki,Swift Dzire,AMT ZDI Plus,2019,38700,Diesel,Automatic,1st,925000.0,Nirman Nagar, Jaipur, Rajasthan
+283,Maruti Suzuki,Baleno,1.3 Zeta,2019,10000,Diesel,Manual,1st,100000.0,Kuthuparamba, Koothuparamba, Kerala
+284,Renault,Duster,RXS,2020,5339,Petrol,Manual,1st,1035000.0,Singasandra, Bengaluru, Karnataka
+285,Hyundai,i20,1.4 Magna Executive,2009,56000,Petrol,Manual,1st,175000.0,Abids, Hyderabad, Telangana
+286,Audi,A4,"2.0 TDI (177bhp), Premium",2012,82000,Diesel,Automatic,2nd,1421000.0,Swarup Nagar, Nagpur, Maharashtra
+287,Hyundai,i10,Sportz,2011,39200,Petrol,Manual,1st,295000.0,Bandra West, Mumbai, Maharashtra
+288,Datsun,RediGO,T Option,2017,84000,Petrol,Manual,2nd,285000.0,Benzco, Vijayawada, Andhra Pradesh
+289,Maruti Suzuki,Swift Dzire,VDI,2014,80000,Diesel,Manual,,400000.0,Sector 14, Gurgaon, Haryana
+290,BMW,3 Series,320d,2012,57000,Diesel,Automatic,1st,1374999.0,Shakarpur, Delhi, Delhi
+291,Maruti Suzuki,A-Star,Lxi,2013,68000,Petrol,Manual,1st,265000.0,Sector 37, Gurgaon, Haryana
+292,Volkswagen,Polo,GT TSI,2016,20418,Petrol,Automatic,1st,725000.0,Borivali West, Mumbai, Maharashtra
+293,Hyundai,i10,Sportz 1.1 LPG,2012,50000,Petrol,Manual,1st,360000.0,Jubilee Hills, Hyderabad, Telangana
+294,Honda,City,2014-2015 i VTEC V,2013,112000,Petrol,Manual,1st,600000.0,Kodambakkam Zacharia Colony, Chennai, Tamil Nadu
+295,Maruti Suzuki,Swift,LDI Optional,2017,80000,Diesel,Manual,1st,549999.0,Dwarka Nagar, Visakhapatnam, Andhra Pradesh
+296,Maruti Suzuki,Omni,LPG BS-III,2007,135000,LPG,Automatic,3rd,135000.0,Pernambut, Gudiyatham, Tamil Nadu
+297,Honda,City,2008-2011 1.5 S MT,2009,90000,Petrol,Manual,1st,400000.0,Hope College, Coimbatore, Tamil Nadu
+298,Mercedes-Benz,S-Class,S 500,2013,60000,Petrol,Automatic,3rd,2200000.0,Bandra West, Mumbai, Maharashtra
+299,Honda,City,2014-2015 i VTEC S,2014,79800,Petrol,Manual,1st,595000.0,Kinfra Industries Park, Koratty, Kerala
+300,Tata,Indica,DLE,2003,98000,Diesel,Manual,2nd,60000.0,Sector 63, Mohali, Punjab
+301,Hyundai,Grand i10,1.2 Kappa Sportz,2008,79000,CNG & Hybrids,Manual,1st,171000.0,Vadsar, Vadodara, Gujarat
+302,Hyundai,i10,1.2 Kappa Magna,2010,60350,CNG & Hybrids,Manual,2nd,245000.0,Sarthana Jakatnaka, Surat, Gujarat
+303,Hyundai,i20,Diesel Asta,2014,70000,Diesel,Manual,2nd,490000.0,Attapur, Hyderabad, Telangana
+304,Renault,Duster,110PS Diesel RxL,2014,73000,Diesel,Manual,2nd,410000.0,Nehru Nagar, Agra, Uttar Pradesh
+305,Ambassador,Ambassador,CLASSIC 1500 DSL AC,2002,89000,Diesel,Manual,1st,85000.0,Chathalloor, Perinthalmanna, Kerala
+306,Maruti Suzuki,Swift,Others,2013,87000,Diesel,Manual,1st,365000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+307,Maruti Suzuki,S Cross,Sigma DDiS 200 SH,2015,81611,Diesel,Manual,1st,600000.0,Chintala Kunta, Hyderabad, Telangana
+308,Hyundai,Fluidic Verna,1.4 CRDi,2017,54000,Diesel,Manual,1st,734999.0,Usmanpura, Ahmedabad, Gujarat
+309,Ford,Figo,1.2P Titanium MT,2016,32000,Petrol,Manual,1st,540000.0,KR Puram, Bengaluru, Karnataka
+310,Maruti Suzuki,Baleno,2016,0,0,Manual,Unknown,,672000.0,Jayanagar, Bengaluru, Karnataka
+311,Maruti Suzuki,Swift,2018 ZXI,2018,84000,Petrol,Manual,1st,725000.0,Basaveshvara Nagar, Bengaluru, Karnataka
+312,Ford,Ecosport,1.5 Diesel Titanium,2019,58000,Diesel,Manual,1st,911000.0,Varacha, Surat, Gujarat
+313,Ford,Figo,2010-2012 Diesel Titanium,2010,105000,Diesel,Manual,2nd,215000.0,Kizhakkambalam, Kunnathunad, Kerala
+314,Hyundai,Elantra,1.6 SX Option AT,2013,98000,Diesel,Automatic,1st,750000.0,Vijyant Khand, Lucknow, Uttar Pradesh
+315,Hyundai,i20,2010,0,0,Manual,Unknown,,221000.0,Pitampura, Delhi, Delhi
+316,,,,0,0,Unknown,Unknown,,,,,
+317,Maruti Suzuki,Swift,VDI,2010,100000,Diesel,Manual,2nd,345000.0,Basaveshvara Nagar, Bengaluru, Karnataka
+318,Mahindra,XUV500,W8 2WD,2013,125000,Diesel,Manual,2nd,640000.0,Chelamattom, Perumbavoor, Kerala
+319,Maruti Suzuki,Swift,VXI,2015,82809,Petrol,Manual,1st,450000.0,Venpalavattom, Thiruvananthapuram, Kerala
+320,Maruti Suzuki,Swift,VDI BS IV,2015,71000,Diesel,Manual,1st,511000.0,Viraj Society, Mumbai, Maharashtra
+321,Ford,Ecosport,1.5 Petrol Titanium Plus AT,2018,12000,Petrol,Automatic,1st,1050000.0,Anna Nagar, Chennai, Tamil Nadu
+322,Skoda,Rapid,2011-2013 1.6 TDI Ambition Plus,2013,133000,Diesel,Manual,1st,430000.0,Ganeshnagar, Karimnagar, Telangana
+323,Hyundai,EON,Era +,2014,14000,Petrol,Manual,1st,300000.0,Amar Jyoti Layout, Bengaluru, Karnataka
+324,Maruti Suzuki,Wagon R,2010-2012 VXI BS IV,2011,78000,Petrol,Manual,1st,275000.0,Satpur Colony, Nashik, Maharashtra
+325,Hyundai,Xcent,1.2 VTVT S,2017,55000,Petrol,Manual,1st,525000.0,Jaman Nagar, Jaipur, Rajasthan
+326,Tata,Nexon,1.2 Revotron XT,2017,33000,Petrol,Manual,1st,690000.0,Thiruvannur, Kozhikode, Kerala
+327,Ford,Figo,1.2P Titanium MT,2010,80000,Petrol,Manual,2nd,210000.0,Godavarikhani, Ramagundam, Telangana
+328,Toyota,Fortuner,2.8 4WD MT,2012,121000,Diesel,Manual,1st,1285000.0,Sector 28C, Chandigarh, Chandigarh
+329,,,,0,0,Unknown,Unknown,,,,,
+330,Fiat,Grande Punto,2009-2013 1.3 Emotion Pack (Diesel),2011,79386,Diesel,Manual,1st,275000.0,Rasta Peth, Pune, Maharashtra
+331,Volkswagen,Polo,1.2 MPI Highline Plus,2016,39000,Petrol,Manual,2nd,550000.0,MG Road, Indore, Madhya Pradesh
+332,Maruti Suzuki,Ritz,VDi,2011,73094,Diesel,Manual,1st,365000.0,Yelhanka - Doddaballapur Road, Bengaluru, Karnataka
+333,Hyundai,Verna,2010-2011 Transform CRDi VGT SX ABS,2010,87000,Diesel,Automatic,2nd,380000.0,Hsr Layout Sector 7, Bengaluru, Karnataka
+334,Volvo,S60,D4 R-Design,2014,108300,Diesel,Automatic,2nd,1500000.0,Jubilee Hills, Hyderabad, Telangana
+335,Maruti Suzuki,Celerio,2014-2017 ZXI AT,2016,39000,Petrol,Manual,1st,465000.0,Banashankari Stage 3, Bengaluru, Karnataka
+336,Hyundai,Creta,1.4 E Plus Diesel,2019,25000,Diesel,Manual,1st,970000.0,Geeta Colony, Delhi, Delhi
+337,Mahindra,Xylo,H4 BS IV,2019,35000,Diesel,Manual,1st,892000.0,Tambaram, Chennai, Tamil Nadu
+338,Hyundai,EON,Era Plus,2013,32000,Petrol,Manual,2nd,249000.0,Nungambakkam, Chennai, Tamil Nadu
+339,Tata,Indica Vista,2008-2013 Aqua 1.3 Quadrajet (ABS),2009,80920,Diesel,Manual,3rd,100000.0,Friends Colony, Mukerian, Punjab
+340,Other Brands,Others,2015,0,0,Unknown,Unknown,,350000.0,Jalukbari, Guwahati, Assam
+341,Renault,Duster,110PS Diesel RxZ,2012,72300,Diesel,Manual,1st,415000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+342,Maruti Suzuki,Ertiga,VXI,2014,70500,Petrol,Manual,2nd,580000.0,Sector 2, Bhilai, Chhattisgarh
+343,Hyundai,Verna,2011-2014 1.6 SX,2012,91000,Diesel,Manual,2nd,435000.0,Mahesh Nagar, Aurangabad, Maharashtra
+344,Maruti Suzuki,Ciaz,2014-2017 ZDi Plus,2015,135000,Diesel,Manual,2nd,700000.0,Kurkumbh, Kurkumbh MIDC, Maharashtra
+345,Hyundai,Verna,2006-2010 CRDi,2006,180000,Diesel,Automatic,3rd,200000.0,Ayyagaripet, Sathupally, Telangana
+346,Maruti Suzuki,Vitara Brezza,ZDi Plus,2016,80000,Diesel,Manual,1st,830000.0,Turakrathi, Kundapura, Karnataka
+347,Hyundai,i10,1.2 Kappa Magna,2012,70500,Petrol,Manual,1st,271500.0,Sector 51, Chandigarh, Chandigarh
+348,Hyundai,Elite i20,Magna 1.2,2015,41000,Petrol,Manual,2nd,430000.0,Elgin Road, Kolkata, West Bengal
+349,,,,0,0,Unknown,Unknown,,,,,
+350,Toyota,Innova Crysta,2.4 ZX MT,2018,70000,Diesel,Manual,1st,1950000.0,Tidke Colony, Nashik, Maharashtra
+351,Hyundai,i10,1.1L iRDE ERA Special Edition,2008,19000,Petrol,Manual,1st,160000.0,Preet Vihar, Delhi, Delhi
+352,Hyundai,Creta,1.4 CRDi S Plus,2018,21000,Diesel,Manual,1st,975000.0,T Nagar, Chennai, Tamil Nadu
+353,Tata,Indigo Ecs,eCS LS CR4 BS-IV,2012,170000,Diesel,Manual,2nd,95000.0,Marriguda, Hyderabad, Telangana
+354,Volkswagen,Polo,2009-2013 Petrol Highline 1.6L,2017,37000,Petrol,Manual,1st,640000.0,Panampilly Nagar, Kochi, Kerala
+355,Toyota,Innova,2009-2011 GX CNG,2009,90000,CNG & Hybrids,Manual,3rd,399000.0,Pitampura, Delhi, Delhi
+356,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,2018,37000,Petrol,Manual,1st,450000.0,Rajarhat, Kolkata, West Bengal
+357,Chevrolet,Sail,1.2 LS ABS,2013,57000,Petrol,Manual,1st,240000.0,Off SG Highway, Ahmedabad, Gujarat
+358,Maruti Suzuki,Wagon R,VXI,2015,31500,Petrol,Manual,1st,383000.0,Kattappana Market, Kattappana, Kerala
+359,Maruti Suzuki,Wagon R 1.0,1.0 VXi,2015,56320,Petrol,Manual,2nd,355000.0,Sultanpet, Palakkad, Kerala
+360,Audi,A4,1.8 TFSI Multitronic Premium Plus,2006,65000,Petrol,Automatic,2nd,375000.0,Greater Kailash 1, Delhi, Delhi
+361,Maruti Suzuki,800,AC,2001,52500,Petrol,Manual,1st,65000.0,Gajapati Nagar, Berhmapur, Odisha
+362,Hyundai,Verna,Others,2009,92000,Diesel,Manual,2nd,220000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+363,Maruti Suzuki,Swift,2018 AMT VXI,2018,25000,Petrol,Automatic,2nd,650000.0,Hagadur Vinayaka Nagar, Bengaluru, Karnataka
+364,BMW,5 Series,520d Luxury Line,2015,34000,Diesel,Automatic,2nd,2350000.0,Elgin Road, Kolkata, West Bengal
+365,Honda,Jazz,VX,2019,20000,Petrol,Manual,1st,790000.0,Asher Nagar, Tiruppur, Tamil Nadu
+366,Hyundai,i20,2010-2012 1.4 CRDi Asta,2011,42144,Diesel,Manual,1st,275000.0,Madurdaha, Kolkata, West Bengal
+367,Hyundai,Elite i20,Asta Option CVT,2018,20000,Petrol,Automatic,1st,775000.0,Andheri West, Mumbai, Maharashtra
+368,Maruti Suzuki,Alto,LXi,2008,88000,Petrol,Manual,1st,105000.0,Mahendra Park, Delhi, Delhi
+369,Honda,City,i-VTEC CVT ZX,2017,60000,Petrol,Automatic,1st,985000.0,Hope College, Coimbatore, Tamil Nadu
+370,Hyundai,i20 Active,Active 1.4 SX (O),2015,54000,Diesel,Manual,1st,560000.0,Chandmari, Guwahati, Assam
+371,Maruti Suzuki,Swift,1.2 DLX,2020,20000,Petrol,Manual,1st,200000.0,Nagwahan, Sundarnagar, Himachal Pradesh
+372,iPhone,,,0,0,Unknown,Unknown,,15499.0,Samudrapur, Maharashtra, India
+373,Audi,Q3,35 TDI Premium Plus + Sunroof,2015,59000,Diesel,Automatic,2nd,1575000.0,Ramesh Nagar, Delhi, Delhi
+374,Hyundai,Verna,2011-2014 1.6 SX CRDI (O) AT,2014,51000,Diesel,Automatic,1st,625000.0,Sunder Nagar, Ahmedabad, Gujarat
+375,Maruti Suzuki,Swift,VXI,2014,49000,Petrol,Manual,1st,425000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+376,Maruti Suzuki,Swift,VDI,2012,78000,Diesel,Manual,,325000.0,Sector 37A, Gurgaon, Haryana
+377,Maruti Suzuki,Swift Dzire,VXI,2014,77000,Petrol,Manual,1st,465000.0,SG Highway, Ahmedabad, Gujarat
+378,Maruti Suzuki,Alto K10,VXI,2013,37000,CNG & Hybrids,Manual,1st,241000.0,Science City, Ahmedabad, Gujarat
+379,Maruti Suzuki,Swift Dzire,Swift Dzire Tour,2018,35000,Diesel,Manual,1st,530500.0,Madhavaram, Chennai, Tamil Nadu
+380,Hyundai,i10,1.2 Kappa Magna,2009,61000,Petrol,Manual,1st,259000.0,Kodambakkam, Chennai, Tamil Nadu
+381,Maruti Suzuki,Alto,2000-2005 LXI,2011,41321,Petrol,Manual,1st,165101.0,Rabindra Nagar, Siliguri, West Bengal
+382,Maruti Suzuki,Ritz,Ldi BS-IV,2010,37163,Diesel,Manual,1st,195000.0,Madurdaha, Kolkata, West Bengal
+383,Jeep,Compass,2.0 Limited,2018,70000,Diesel,Manual,1st,1545000.0,Nagawara, Bengaluru, Karnataka
+384,Hyundai,i10,1.2 Kappa SPORTZ,2010,70000,Petrol,Manual,2nd,250000.0,Benzco, Vijayawada, Andhra Pradesh
+385,Volkswagen,Polo,2009-2013 Diesel Highline 1.2L,2012,63800,Diesel,Manual,2nd,325000.0,Mohit Vihar, Dehradun, Uttaranchal
+386,Mitsubishi,Pajero,Select Plus 4X4 MT,2011,80000,Diesel,Manual,2nd,715000.0,Industrial Area, Chandigarh, Chandigarh
+387,Honda,City ZX,GXi,2007,76000,Petrol,Manual,2nd,245000.0,Banashankari, Bengaluru, Karnataka
+388,Tata,Nano,XT,2017,50000,Petrol,Manual,1st,150000.0,Naranpura, Ahmedabad, Gujarat
+389,,,,0,0,Unknown,Unknown,,,,,
+390,Skoda,Rapid,1.5 TDI CR Elegance Plus,2014,215000,Diesel,Manual,1st,450000.0,Goripalayam, Madurai, Tamil Nadu
+391,Maruti Suzuki,Esteem,Vxi - BSIII,2007,80000,CNG & Hybrids,Manual,1st,125500.0,Sector 28, Gandhinagar, Gujarat
+392,Mahindra,Jeep,Commander 750 DI,2010,165000,Diesel,Manual,2nd,575000.0,Ramamangalam, Kochi, Kerala
+393,BMW,3 Series,320d Luxury Line,2014,61000,Diesel,Automatic,2nd,1711000.0,Prahlad nagar, Ahmedabad, Gujarat
+394,Maruti Suzuki,Ciaz,1.4 Sigma,2017,25500,Petrol,Manual,2nd,640000.0,Birgaon, Raipur, Chhattisgarh
+395,Mahindra,XUV500,W8 2WD,2012,81000,Diesel,Manual,1st,500000.0,Rampur, Rampur, Uttar Pradesh
+396,Maruti Suzuki,Swift Dzire,VDI,2016,62000,Diesel,Manual,1st,610000.0,Andheri West, Mumbai, Maharashtra
+397,Renault,Duster,85PS Diesel RxL,2014,68000,Diesel,Manual,1st,425000.0,Ward No 3, Ghagga, Punjab
+398,Maruti Suzuki,800,AC BSII,2007,45000,Petrol,Manual,,95000.0,Shantipuram, Visakhapatnam, Andhra Pradesh
+399,Maruti Suzuki,Wagon R,LXI,2016,54000,Petrol,Manual,1st,341000.0,Rohini Sector 10, Delhi, Delhi
+400,Maruti Suzuki,Alto,LXi,2009,80000,CNG & Hybrids,Manual,2nd,92000.0,Babarpur, Delhi, Delhi
+401,Maruti Suzuki,Wagon R 1.0,1.0 LXi,2009,51000,Petrol,Manual,1st,200000.0,Off SG Highway, Ahmedabad, Gujarat
+402,Hyundai,i10,Era,2012,58000,Petrol,Manual,1st,280000.0,Naranpura, Ahmedabad, Gujarat
+403,Maruti Suzuki,Celerio,ZXI Optional MT,2016,89000,Petrol,Manual,1st,430000.0,Bowenpally, Hyderabad, Telangana
+404,Skoda,Laura,1.8 TSI Ambition,2010,84000,Petrol,Manual,3rd,351000.0,Gungutoli, Ranchi, Jharkhand
+405,Hyundai,i20,Petrol Spotz,2017,16000,Petrol,Manual,1st,638000.0,Borivali West, Mumbai, Maharashtra
+406,Chevrolet,Spark,1.0 LS,2010,72000,Petrol,Manual,1st,105000.0,Tilak Nagar, Delhi, Delhi
+407,Maruti Suzuki,Ritz,VDi,2011,74002,Petrol,Manual,2nd,180000.0,Lachchhiram Pur, Azamgarh, Uttar Pradesh
+408,Maruti Suzuki,Alto,LX,2007,66000,Petrol,Manual,1st,125000.0,Off SG Highway, Ahmedabad, Gujarat
+409,,,,0,0,Unknown,Unknown,,,,,
+410,Maruti Suzuki,Swift Dzire,VXI,2010,95000,Petrol,Manual,2nd,300000.0,Someshwarapura Extension, Tumakuru, Karnataka
+411,Tata,Indigo CS,CS LS TDI,2007,92000,Diesel,Manual,2nd,135000.0,Anna Nagar, Chennai, Tamil Nadu
+412,Fiat,Punto,Punto Emotion Pack 1.4,2011,92000,Diesel,Manual,1st,250000.0,Ayanavaram, Chennai, Tamil Nadu
+413,Hyundai,Elite i20,Magna 1.2,2015,54000,Petrol,Manual,1st,470000.0,Rohini Sector 10, Delhi, Delhi
+414,Maruti Suzuki,Swift,VDI BS IV,2015,78000,Diesel,Manual,1st,490000.0,Chauk, Lucknow, Uttar Pradesh
+415,Hyundai,Elite i20,Sportz (O) 1.4,2015,79000,Diesel,Manual,2nd,580000.0,Thiruvannur, Kozhikode, Kerala
+416,Maruti Suzuki,Swift,ZDi,2013,79000,Diesel,Manual,1st,490000.0,MG Road, Bengaluru, Karnataka
+417,Hyundai,Elite i20,Asta 1.2 (O),2016,51000,Petrol,Manual,1st,499999.0,Rajarhat, Kolkata, West Bengal
+418,,,,0,0,Unknown,Unknown,,250.0,Samudrapur, Maharashtra, India
+419,Maruti Suzuki,Alto,2005-2010 LXi BSIII,2009,70000,Petrol,Manual,1st,165000.0,Sunder Nagar, Ahmedabad, Gujarat
+420,Maruti Suzuki,Swift,2011-2014 ZDi,2012,105900,Diesel,Manual,2nd,410000.0,Nayudupeta, Andhra Pradesh, India
+421,Honda,City,i-VTEC VX,2015,55154,Petrol,Manual,1st,579000.0,Connaught Place, Delhi, Delhi
+422,Honda,Civic,1.8 V MT,2009,80000,Petrol,Manual,2nd,265000.0,Attapur, Hyderabad, Telangana
+423,Toyota,Corolla Altis,Others,2013,88000,Diesel,Manual,2nd,480000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+424,Toyota,Innova,2.5 V 7 STR,2011,170000,Diesel,Manual,2nd,590000.0,Industrial Area, Chandigarh, Chandigarh
+425,Volkswagen,Ameo,1.2 MPI Comfortline Plus,2018,45000,Petrol,Manual,1st,480000.0,Pitampura, Delhi, Delhi
+426,Bentley,Continental Flying Spur,Flying Spur W12,2008,34000,Petrol,Automatic,4th,7500000.0,Bandra West, Mumbai, Maharashtra
+427,Maruti Suzuki,Ciaz,2014-2017 ZDi SHVS,2015,69000,Diesel,Manual,1st,560000.0,Kotwali Ganj, Rampur, Uttar Pradesh
+428,Audi,A6,2.0 TDI Premium Plus,2013,8,Petrol,Automatic,4+,15000.0,Vyttila, Kochi, Kerala
+429,Hyundai,i20,2010-2012 1.4 CRDi Magna,2012,81975,Diesel,Manual,1st,328000.0,Sector 60 Phase 3B2, Mohali, Punjab
+430,,,,0,0,Unknown,Unknown,,,,,
+431,Mercedes-Benz,E-Class,Elegance 220 CDI,2012,95000,Diesel,Automatic,1st,1275000.0,Santacruz East, Mumbai, Maharashtra
+432,Toyota,Etios,2012,0,0,Manual,Unknown,,420000.0,Rangampalaiyam, Erode, Tamil Nadu
+433,,,,0,0,Unknown,Unknown,,,,,
+434,Maruti Suzuki,Vitara Brezza,ZDi Plus Dual Tone,2016,47000,Diesel,Manual,1st,815000.0,Vidya Nagar Colony, Tirupati, Andhra Pradesh
+435,Tata,Aria,Pleasure 4X4,2011,44220,Diesel,Manual,1st,345000.0,Andheri East, Mumbai, Maharashtra
+436,Mahindra,Scorpio,2006-2009 2.6 Turbo 7 Str,2006,69685,Diesel,Manual,,169000.0,New Pratap Nagar, Ambala, Haryana
+437,Hyundai,Elite i20,Sportz 1.2,2016,57080,Petrol,Manual,,610000.0,Jayanagar, Bengaluru, Karnataka
+438,Tata,Indigo Ecs,eCS LS CR4 BS-IV,2018,100000,Diesel,Manual,1st,250000.0,Mira Road East, Mumbai, Maharashtra
+439,,,,0,0,Unknown,Unknown,,499.0,Samudrapur MIDC, Maharashtra, India
+440,Chevrolet,Sail,2014,0,0,Manual,Unknown,,300000.0,Mohit Vihar, Dehradun, Uttaranchal
+441,Tata,Safari Storme,VX,2014,120500,Diesel,Manual,1st,695000.0,Kunchanapalle, Vijayawada, Andhra Pradesh
+442,Renault,Duster,2012-2015 85PS Diesel RxL,2013,160000,Diesel,Manual,1st,399000.0,Rajbandh Maidan, Raipur, Chhattisgarh
+443,Toyota,Innova,2.5 G (Diesel) 7 Seater,2015,151000,Diesel,Manual,2nd,640000.0,Infantry Road, Bengaluru, Karnataka
+444,Ford,Figo,2012-2015 Diesel ZXI,2015,110000,Diesel,Manual,2nd,340000.0,Ram Krishna Nagar, Vijayawada, Andhra Pradesh
+445,Hyundai,i10,Magna 1.1L,2016,13314,Petrol,Manual,1st,495000.0,Rajaji Nagar, Bengaluru, Karnataka
+446,Hyundai,i20,2012-2014 Sportz 1.2,2012,60527,Petrol,Manual,1st,420000.0,Housing Board Colony, Hyderabad, Telangana
+447,Chevrolet,Others,Others,2016,110974,Diesel,Automatic,2nd,550000.0,Manthaiyamman Kovil, Kambam, Tamil Nadu
+448,Toyota,Innova,2004-2011 2.5 G4 Diesel 8-seater,2010,0,Diesel,Unknown,,850000.0,Puliakulam, Coimbatore, Tamil Nadu
+449,Maruti Suzuki,Swift Dzire,VXI,2017,55000,Petrol,Manual,1st,515000.0,Anamika Enclave, Gurgaon, Haryana
+450,Maruti Suzuki,Alto 800,LXI,2013,81000,Petrol,Manual,1st,249000.0,Alagu Nagar, Namakkal, Tamil Nadu
+451,Volkswagen,Jetta,2.0 TDI Comfortline,2012,82000,Diesel,Manual,1st,399000.0,Sector 16, Faridabad, Haryana
+452,Ford,Figo,2010-2012 Petrol ZXI,2010,72000,Petrol,Manual,3rd,180000.0,Kuchha Kathara, Shahjahanpur, Uttar Pradesh
+453,Mercedes-Benz,GLE Class,250d,2016,74000,Diesel,Automatic,1st,4200000.0,Marine Drive, Kochi, Kerala
+454,Maruti Suzuki,Wagon R,1999-2006 VXI BSIII,2006,0,Unknown,Unknown,,150000.0,Palarivattom, Kochi, Kerala
+455,Maruti Suzuki,Ritz,LXi,2016,80000,CNG & Hybrids,Manual,2nd,270000.0,IMT Rohtak, Rohtak, Haryana
+456,Ford,Ecosport,1.5 Diesel Trend,2015,65000,Diesel,Manual,1st,499999.0,Ward Number 42, Churu, Rajasthan
+457,Maruti Suzuki,Wagon R,2006-2010 LXI Minor,2009,70000,Petrol,Manual,2nd,195000.0,Sunder Nagar, Ahmedabad, Gujarat
+458,Mercedes-Benz,E-Class,E250 CDI Avantgarde,2015,70000,Diesel,Automatic,1st,2050000.0,Andheri West, Mumbai, Maharashtra
+459,Maruti Suzuki,Wagon R 1.0,1.0 LXi,2012,51000,Petrol,Manual,1st,240000.0,Karkar Duma, Delhi, Delhi
+460,Mahindra,XUV500,W8 2WD,2016,58000,Diesel,Manual,1st,1230000.0,Banashankari Stage 3, Bengaluru, Karnataka
+461,Maruti Suzuki,Estilo,VXi BS-IV,2010,42111,Petrol,Manual,1st,175000.0,Madurdaha, Kolkata, West Bengal
+462,Maruti Suzuki,Vitara Brezza,2017,0,0,Unknown,Unknown,,666666.0,Vyttila, Kochi, Kerala
+463,Nissan,Sunny,XE,2016,80000,Diesel,Manual,1st,480000.0,Alwarpet, Chennai, Tamil Nadu
+464,Volkswagen,Polo,2009-2013 Diesel Highline 1.2L,2011,85000,Diesel,Manual,2nd,285000.0,Umarwada, Surat, Gujarat
+465,Maruti Suzuki,Swift,VDI,2012,41000,Diesel,Manual,1st,335000.0,Jadavpur, Kolkata, West Bengal
+466,Chevrolet,Optra,1.8 MAX,2011,94250,Diesel,Manual,1st,245000.0,Sarthana Jakatnaka, Surat, Gujarat
+467,Maruti Suzuki,Zen,LXI,2006,81110,Petrol,Manual,1st,215000.0,Jaganathapuram, Erode, Tamil Nadu
+468,Audi,A4,2008-2014 2.0 TDI Celebration Edition,2013,45000,Diesel,Automatic,2nd,1595000.0,Nagawara, Bengaluru, Karnataka
+469,Hyundai,i20,2012-2014 Magna,2013,53232,CNG & Hybrids,Manual,1st,345000.0,Pitampura, Delhi, Delhi
+470,Maruti Suzuki,Wagon R,LXI,2007,162000,Petrol,Manual,1st,155000.0,Adabari, Guwahati, Assam
+471,Maruti Suzuki,Vitara Brezza,ZDi Plus,2019,45000,Diesel,Manual,1st,985000.0,LB Nagar, Hyderabad, Telangana
+472,Maruti Suzuki,Vitara Brezza,ZDi Plus,2018,61000,Diesel,Manual,1st,825000.0,Raj Nagar Extension, Ghaziabad, Uttar Pradesh
+473,Mahindra,XUV500,W6 2WD,2012,52000,Diesel,Manual,1st,439000.0,Vaishali, Ghaziabad, Uttar Pradesh
+474,Hyundai,i10,Sportz 1.2 Automatic Kappa2,2011,69000,Petrol,Automatic,2nd,350000.0,Neduvathoor, Kottarakkara, Kerala
+475,Tata,Indigo CS,2008-2012 eLX BS IV,2011,73000,Diesel,Manual,1st,165000.0,Kunchanapalle, Vijayawada, Andhra Pradesh
+476,Hyundai,Accent,CRDi,2005,98000,Diesel,Manual,3rd,120000.0,Attapur, Hyderabad, Telangana
+477,Maruti Suzuki,Wagon R 1.0,1.0 LXi,2009,82698,Petrol,Manual,,130000.0,Model Town, Ambala, Haryana
+478,,,,0,0,Unknown,Unknown,,499.0,Samudrapur, Maharashtra, India
+479,Maruti Suzuki,Wagon R Electric,Others,2006,60000,LPG,Automatic,2nd,65000.0,Baikuntha, Bahraich, Uttar Pradesh
+480,BMW,3 Series,Others,2011,96000,Diesel,Automatic,1st,800000.0,Chandigarh Airport Area, Chandigarh, Chandigarh
+481,Mercedes-Benz,GLE COUPE,43 AMG Coupe,2020,5000,Petrol,Automatic,1st,9200000.0,Puthiyakavu, Karunagappally, Kerala
+482,Maruti Suzuki,Alto,2005-2010 LX BSIII,2008,55000,Petrol,Manual,2nd,130000.0,Attapur, Hyderabad, Telangana
+483,Maruti Suzuki,Omni,8 Seater BSII,2013,98300,Petrol,Manual,1st,250000.0,Thillai Nagar, Tiruchirappalli, Tamil Nadu
+484,Hyundai,i10,1.2 Kappa SPORTZ,2009,81000,Petrol,Manual,2nd,220000.0,Kannanakuzhi, Kattanam, Kerala
+485,Toyota,Fortuner,3.0 4x4 Manual,2013,125000,Diesel,Manual,2nd,1400000.0,Sivarampalli, Hyderabad, Telangana
+486,Maruti Suzuki,Swift Dzire,2013,0,0,Unknown,Unknown,,357000.0,Mansarovar Garden, Delhi, Delhi
+487,Honda,Accord,Accord 2.4 VTi-L Automatic,2010,57000,Petrol,Automatic,2nd,380001.0,Bhola Nath Nagar, Delhi, Delhi
+488,Ford,Ecosport,1.5 TDCi Titanium Plus,2013,96000,Diesel,Manual,1st,525000.0,Padivattom, Kochi, Kerala
+489,Maruti Suzuki,Wagon R,LXI BS IV,2018,21000,Petrol,Manual,1st,385000.0,Vaishali, Ghaziabad, Uttar Pradesh
+490,Toyota,Corolla Altis,Altis 1.8 J,2018,21,Petrol,Manual,1st,1021700.0,Chembur, Mumbai, Maharashtra
+491,Toyota,Innova,2004-2011 2.0 V,2011,80000,Diesel,Manual,1st,900000.0,Aranattukara, Thrissur, Kerala
